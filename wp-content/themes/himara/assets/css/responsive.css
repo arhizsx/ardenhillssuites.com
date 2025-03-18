@@ -1,0 +1,441 @@
+/*=============================================================
+Template Name: Hotel Himara - Hotel HTML Template
+Author:        Eagle-Themes
+Author URI:    http://eagle-themes.com
+Version:       1.1.0
+===============================================================
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+  .container,
+  .eb-container {
+    max-width: 1200px;
+  }
+}
+
+/* Extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+  .container,
+  .eb-container {
+    max-width: 1300px;
+  }
+}
+
+/* Large devices (desktops, less than 1200px) */
+
+@media (max-width: 1199.98px) {
+  /* BOOKING FORMS */
+  .booking-form-toggle {
+    display: none;
+  }
+  .horizontal-booking-form .inner .btn-book {
+    padding: 10px 10px;
+    font-size: 14px;
+  }
+  .horizontal-booking-form .inner .advanced-form-link {
+    font-size: 11px;
+  }
+  /* ROOMS */
+  .room-list-item .room-price .btn.btn-sm {
+    padding: 7px 2px;
+    font-size: 12px;
+  }
+
+}
+
+
+@media (min-width: 992px) {
+
+  .services-v2 .owl-thumbs {
+    position: absolute;
+    left: 0;
+    z-index: 9;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+  .services-v2 .owl-thumb-item {
+    width: 100px;
+    height: 100px;
+  }
+
+  .services-v2 .owl-thumb-item.active {
+    width: 450px;
+    overflow: hidden;
+  }
+
+  .services-v2 .owl-thumb-item .inner {
+    position: absolute;
+  }
+
+
+}
+
+/* Medium devices (tablets, less than 992px) */
+
+@media (max-width: 991.98px) {
+
+  body.himara-vertical-header .wrapper {
+    margin-left: 0;
+  }
+
+  .himara-search-over-slider .eb-field-group {
+    margin-bottom: 20px;
+  }
+
+  .topbar .top-menu  {
+    width: 100%;
+  }
+
+  /* HEADER */
+  header {
+    height: 55px;
+  }
+  header .brand {
+    padding: 15px 0;
+  }
+  header .brand .logo img {
+  }
+
+  header.transparent-header {
+    top: 20px;
+  }
+
+  header.header-fixed-top.scroll-header {
+    top: 0;
+  }
+
+  header.transparent-header
+
+  .mobile-header .toggle-menu-button {
+    margin-top: 20px;
+  }
+
+  header.transparent-header {
+    top: 0;
+  }
+
+  .btn {
+    padding: 10px 10px;
+    font-size: 13px;
+    width: 100%;
+  }
+  .btn.btn-lg {
+    padding: 10px 18px;
+    font-size: 18px;
+  }
+  /* SLIDER */
+  .horizontal-booking-form {
+    position: relative;
+    bottom: 0;
+    top: 15px;
+  }
+  .horizontal-booking-form.booking-full-width {
+    top: 0;
+  }
+  .horizontal-booking-form.booking-full-width .form-control {
+    margin-bottom: 10px;
+  }
+  .horizontal-booking-form .inner .form-group {
+    margin-right: 0;
+  }
+
+  main {
+    padding: 50px 0;
+    overflow-x: hidden;
+  }
+
+  .rooms.rooms-over-slider {
+    margin-top: 80px;
+  }
+  .testimonials .testimonials-owl {
+    padding-left: 0;
+  }
+  .info-branding .providers {
+    margin-bottom: 30px;
+  }
+  .info-branding h4 {
+    font-size: 16px;
+  }
+
+  .countup-box {
+    margin-bottom: 30px !important;
+  }
+
+  .countup-box .number {
+    font-size: 28px;
+  }
+  .countup-box .text {
+    font-size: 16px;
+  }
+  .services-v2 .main-image {
+    margin-bottom: 50px;
+  }
+  .post-grid .news-info, .newsv2-item .news-info {
+    padding: 15px;
+  }
+  .post-grid .news-info h4 a, .newsv2-item .news-info h4 a {
+    font-size: 16px;
+  }
+  .main-wrapper {
+    padding-left: 0;
+  }
+  /* SLIDERS */
+  .tp-bullets {
+    display: none;
+  }
+  /* PAGES */
+  .page-title h1 {
+    font-size: 18px;
+    margin-bottom: 0;
+  }
+  .page-title .breadcrumb {
+    padding: 0 0;
+  }
+  .page-title .breadcrumb li,
+  .page-title .breadcrumb li:last-child {
+    padding: 0 0;
+  }
+  .room-details-price {
+    font-size: 16px;
+    margin-top: 0;
+  }
+  .page-title .inner,
+  .eb-page-header {
+    padding: 20px 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  .page-title .breadcrumb li, .page-title .breadcrumb a {
+    font-size: 11px;
+  }
+  .room-reviews .rating-details .review-summary {
+    margin-bottom: 20px;
+  }
+  .gallery-filters .filter {
+    font-size: 18px;
+    padding: 7px 5px;
+  }
+  .gallery-filters:before {
+    width: 5px;
+    height: 20px;
+    top: 4px;
+  }
+  .contact-page .google-map {
+    margin-top: 0;
+    max-width: 100%;
+  }
+  .count-box {
+    padding: 10px;
+    min-width: 70px;
+    margin-right: 10px;
+  }
+  .count-box .count-number {
+    font-size: 20px;
+  }
+  .count-box .count-text {
+    font-size: 13px;
+  }
+  .coming-soon .subscribe-form button i {
+    right: -2px;
+  }
+  .error404-fullscreen-page .inner .title {
+    font-size: 28px;
+  }
+  /* SIDEBAR */
+  .sidebar {
+    margin-top: 50px;
+    padding-left: 0;
+  }
+
+  .room-list-item .room-details {
+    text-align: center;
+  }
+
+  /* ROOMS */
+  .room-list-item .room-info {
+    padding: 30px 30px;
+  }
+  .room-list-item .room-price {
+    border-left: none;
+    padding: 30px;
+  }
+  .room-list-item figure a:before {
+    display: none;
+  }
+  .room .vertical-booking-form-over-slider {
+    margin-top: 0;
+  }
+
+  .room-list-item img {
+    border-radius: 8px 8px 0 0;
+  }
+
+  .similar-rooms .room-grid-item {
+    margin-bottom: 30px;
+  }
+  /* FORMS */
+  label {
+    font-size: 13px;
+    margin-bottom: 0;
+    margin-top: 10px;
+  }
+
+  footer .subfooter .himara-subfooter-menu {
+    justify-content: center;
+    padding-bottom: 5px;
+  }
+
+  footer .subfooter .copyrights {
+    text-align: center;
+    font-size: 14px;
+  }
+
+  .services-v2 .main-image {
+    padding-left: 0;
+    margin-bottom: 0;
+  }
+
+  .services-v2 .owl-thumbs {
+    display: block;
+    position: relative;
+    display: block;
+    position: static;
+    transform: none;
+    margin: 20px 0;
+    max-width: 100%;
+  }
+
+  .services-v2 .owl-thumb-item {
+    width: 100%;
+    height: auto;
+  }
+
+  .services-v2 .owl-thumb-item .details {
+    padding: 20px 10px;
+    display: inline-block;
+    opacity: 1;
+    visibility: visible;
+  }
+
+  .services-v2 .owl-thumb-item.active {
+    max-width: 100%;
+  }
+
+  .checkout-payment-tabs .eb-payment-tabs .payment-tab-item {
+    height: 140px;
+  }
+
+  .checkout-payment-tabs .eb-payment-tabs .payment-tab-item a {
+    padding: 5px;
+  }
+
+  .checkout-payment-tabs .eb-payment-tabs .payment-tab-item a {
+    font-size: 12px;
+    line-height: 16px;
+  }
+
+  .services .owl-thumbs {
+    margin-top: 30px;
+  }
+
+  .restaurant-menu-item .inner {
+    display: block;
+  }
+
+  .restaurant-menu-item .inner figure,
+  .restaurant-menu-item .inner .info {
+    width: 100%;
+  }
+
+  .post-classic-item .post-details {
+    padding: 0 15px;
+  }
+
+  .post-classic-item .post-content {
+    padding: 10px 15px;
+  }
+
+  footer .subfooter .himara-subfooter-menu li a {
+    font-size: 14px;
+  }
+
+  .eb-search-form-wide .eb-search-form .eb-field-group:nth-child(2):before {
+    content: none;
+  }
+
+}
+
+/* Small devices (landscape phones, less than 768px) */
+
+@media (max-width: 767.98px) {
+
+  /* Footer */
+  footer .footer-widgets .footer-widget {
+    margin-bottom: 40px;
+  }
+
+  footer .footer-widgets .widget-title,
+  footer .footer-widgets h2 {
+    margin-bottom: 5px;
+  }
+
+  footer .footer-widgets .footer-widget .inner .tripadvisor-banner {
+    text-align: left;
+  }
+
+  /* Blog */
+  .blog-posts .post.post-classic .post-details {
+    padding: 0 0;
+  }
+
+  .blog-post .entry .post-title a {
+    font-size: 22px;
+  }
+
+  .blog-posts .post .post-details .post-meta,
+  .blog-posts .post .post-details .post-meta a,
+  .blog-post .entry .post-meta,
+  .blog-post .entry .post-meta a {
+    font-size: 11px;
+  }
+
+  .blog-posts .post .post-details {
+    margin-top: 30px;
+  }
+  .meta-post .tags,
+  .meta-post .share {
+    display: block;
+    float: none;
+    margin-bottom: 30px;
+  }
+
+  /* Pages */
+  .places-item figcaption {
+    padding-left: 15px;
+    padding-bottom: 10px;
+  }
+
+  .restaurant-menu-item {
+    border-right: none;
+  }
+
+  .gallery-filters {
+    overflow: auto;
+    white-space: nowrap;
+  }
+
+  .gallery-filters::-webkit-scrollbar {
+    display: none;
+  }
+
+  .gallery-filters .filter .filter-count {
+    font-size: 10px;
+  }
+
+  footer .footer-info .languages {
+    text-align: left;
+    margin-top: 20px;
+  }
+
+}

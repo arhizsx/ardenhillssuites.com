@@ -1,0 +1,16 @@
+/*
+Theme Name:  Himara Child
+Template:    himara
+Author:      Eagle-Themes
+Theme URI:   https://himaratheme.com
+Author URI:  https://eagle-themes.com
+Description: Himara is an All-in-one Hotel & Booking WordPress Theme crafted for your hotel & resort website.
+License:     GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+@media (max-width: 991.98px) {
+ header .brand .logo img {
+	 max-width: 500px !important;
+  }
+}

@@ -1,0 +1,3088 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Himara\n"
+"POT-Creation-Date: 2023-02-20 01:16+0200\n"
+"PO-Revision-Date: 2023-02-20 01:16+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:19
+msgid "404"
+msgstr ""
+
+#: 404.php:19
+msgid "Error"
+msgstr ""
+
+#: 404.php:23
+msgid "Page Not Found!"
+msgstr ""
+
+#: 404.php:24
+msgid ""
+"We're sorry, but we can't find the page you were looking for. It's probably "
+"some thing we've done wrong but now we know about it and we'll try to fix it"
+msgstr ""
+
+#: 404.php:25
+msgid "Home Page"
+msgstr ""
+
+#: 404.php:29
+msgid "Search"
+msgstr ""
+
+#: comments.php:7
+msgid "Password Protected"
+msgstr ""
+
+#: comments.php:43
+msgid "Trackbacks &amp; Pingbacks"
+msgstr ""
+
+#: comments.php:55 templates/archive/pagination.php:1
+msgid "Previous"
+msgstr ""
+
+#: comments.php:58 templates/archive/pagination.php:1
+msgid "Next"
+msgstr ""
+
+#: core/admin/dashboard.php:63 core/admin/dashboard.php:64
+#: core/admin/dashboard.php:77 core/admin/dashboard.php:78
+#: core/admin/dashboard.php:183 core/admin/inc/importer/inc/ViewHelpers.php:30
+msgid "Dashboard"
+msgstr ""
+
+#: core/admin/dashboard.php:184 core/admin/inc/importer/inc/ViewHelpers.php:31
+msgid "Demo Importer"
+msgstr ""
+
+#: core/admin/dashboard.php:185 core/admin/inc/importer/inc/ViewHelpers.php:32
+#: core/admin/inc/importer/views/import.php:153
+#: core/admin/include/importer/views/import.php:153
+msgid "Theme Settings"
+msgstr ""
+
+#: core/admin/dashboard.php:204 core/admin/dashboard.php:221
+#: core/admin/dashboard.php:287
+msgid "Theme License"
+msgstr ""
+
+#: core/admin/dashboard.php:209
+msgid ""
+"If you want to use your license on a different domain you have to deactivate "
+"your license first and activate it on your new domain."
+msgstr ""
+
+#: core/admin/dashboard.php:214
+msgid "Theme Version"
+msgstr ""
+
+#: core/admin/dashboard.php:218
+msgid "Changelog"
+msgstr ""
+
+#: core/admin/dashboard.php:224
+msgid "Activated"
+msgstr ""
+
+#: core/admin/dashboard.php:226
+msgid "Not Activated"
+msgstr ""
+
+#: core/admin/dashboard.php:232
+msgid "Deactivate License"
+msgstr ""
+
+#: core/admin/dashboard.php:237 core/admin/dashboard.php:306
+msgid "Purchase Code"
+msgstr ""
+
+#: core/admin/dashboard.php:239
+msgid "Where Is My Purchase Code?"
+msgstr ""
+
+#: core/admin/dashboard.php:242
+msgid "Support Expired on"
+msgstr ""
+
+#: core/admin/dashboard.php:257 core/admin/dashboard.php:488
+msgid "Renew Support"
+msgstr ""
+
+#: core/admin/dashboard.php:260
+msgid "Child Theme"
+msgstr ""
+
+#: core/admin/dashboard.php:266
+msgid "What is a Child Theme?"
+msgstr ""
+
+#: core/admin/dashboard.php:292
+msgid ""
+"Activate the theme using your Envato Purchase Code. One standard license is "
+"valid for one website. Running multiple projects on a single license is a "
+"copyright violation."
+msgstr ""
+
+#: core/admin/dashboard.php:306
+msgid "How to get Purchase Code"
+msgstr ""
+
+#: core/admin/dashboard.php:315
+msgid "Activate License"
+msgstr ""
+
+#: core/admin/dashboard.php:359
+msgid "Server Environment"
+msgstr ""
+
+#: core/admin/dashboard.php:360
+msgid "Requirements"
+msgstr ""
+
+#: core/admin/dashboard.php:366
+msgid "Directive"
+msgstr ""
+
+#: core/admin/dashboard.php:367
+msgid "Priority"
+msgstr ""
+
+#: core/admin/dashboard.php:368
+msgid "Required Value"
+msgstr ""
+
+#: core/admin/dashboard.php:369
+msgid "Current Value"
+msgstr ""
+
+#: core/admin/dashboard.php:374
+msgid "PHP version"
+msgstr ""
+
+#: core/admin/dashboard.php:375 core/admin/dashboard.php:387
+#: core/admin/dashboard.php:393
+msgid "High"
+msgstr ""
+
+#: core/admin/dashboard.php:380
+msgid "PHP time limit"
+msgstr ""
+
+#: core/admin/dashboard.php:381
+msgid "Medium"
+msgstr ""
+
+#: core/admin/dashboard.php:386
+msgid "PHP memory limit"
+msgstr ""
+
+#: core/admin/dashboard.php:392
+msgid "Max upload size"
+msgstr ""
+
+#: core/admin/dashboard.php:413
+msgid "Help"
+msgstr ""
+
+#: core/admin/dashboard.php:414
+msgid "Documentation"
+msgstr ""
+
+#: core/admin/dashboard.php:419
+msgid "Theme Documentation"
+msgstr ""
+
+#: core/admin/dashboard.php:421
+msgid "Theme Installation"
+msgstr ""
+
+#: core/admin/dashboard.php:422
+msgid "Demo Content Import"
+msgstr ""
+
+#: core/admin/dashboard.php:423
+msgid "Theme Translation"
+msgstr ""
+
+#: core/admin/dashboard.php:424
+msgid "Activating Premium Plugins"
+msgstr ""
+
+#: core/admin/dashboard.php:428
+msgid "Eagle Booking Documentation"
+msgstr ""
+
+#: core/admin/dashboard.php:430
+msgid "Add New Room"
+msgstr ""
+
+#: core/admin/dashboard.php:431
+msgid "Add New Booking"
+msgstr ""
+
+#: core/admin/dashboard.php:432
+msgid "Add New Service"
+msgstr ""
+
+#: core/admin/dashboard.php:433
+msgid "Booking System"
+msgstr ""
+
+#: core/admin/dashboard.php:437
+msgid "Useful Links"
+msgstr ""
+
+#: core/admin/dashboard.php:439
+msgid "Get Support"
+msgstr ""
+
+#: core/admin/dashboard.php:440
+msgid "Get Eagle Booking"
+msgstr ""
+
+#: core/admin/dashboard.php:441
+msgid "Recommended Hosting"
+msgstr ""
+
+#: core/admin/dashboard.php:442 core/admin/theme-options.php:1393
+msgid "Recommended Multilingual Plugin"
+msgstr ""
+
+#: core/admin/dashboard.php:464
+msgid ""
+"Himara has not been activated! Make sure to activate your license to be able "
+"to use all core functionalities."
+msgstr ""
+
+#: core/admin/dashboard.php:465
+msgid "Activate Himara License"
+msgstr ""
+
+#: core/admin/dashboard.php:487
+msgid ""
+"Your support for Himara has expired. Please renew support if you wish to get "
+"help from our team."
+msgstr ""
+
+#: core/admin/demo-importer.php:11
+msgid "Himara One Click Demo Import"
+msgstr ""
+
+#: core/admin/demo-importer.php:12 core/admin/inc/importer/inc/Helpers.php:805
+#: core/admin/inc/importer/views/plugin-page.php:315
+msgid "Import Demo Data"
+msgstr ""
+
+#: core/admin/demo-importer.php:31
+msgid "Modern"
+msgstr ""
+
+#: core/admin/demo-importer.php:77
+msgid "City"
+msgstr ""
+
+#: core/admin/demo-importer.php:123
+msgid "Island"
+msgstr ""
+
+#: core/admin/demo-importer.php:169
+msgid "Bed & Breakfast"
+msgstr ""
+
+#: core/admin/demo-importer.php:215
+msgid "Summer"
+msgstr ""
+
+#: core/admin/demo-importer.php:261
+msgid "Classic"
+msgstr ""
+
+#: core/admin/demo-importer.php:307
+msgid "Boutique"
+msgstr ""
+
+#: core/admin/demo-importer.php:353
+msgid "Lodge"
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:334
+#: core/admin/install-plugins.php:82
+msgid "Install Required Plugins"
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:335
+#: core/admin/inc/importer/views/plugin-page.php:254
+#: core/admin/install-plugins.php:83
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: core/admin/inc/class-tgm-plugin-activation.php:337
+#: core/admin/install-plugins.php:84
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: core/admin/inc/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:340
+#: core/admin/install-plugins.php:85
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: core/admin/inc/class-tgm-plugin-activation.php:343
+#: core/admin/install-plugins.php:86
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: core/admin/inc/class-tgm-plugin-activation.php:349
+#: core/admin/install-plugins.php:87
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: core/admin/inc/class-tgm-plugin-activation.php:355
+#: core/admin/install-plugins.php:92
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: core/admin/inc/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: core/admin/inc/class-tgm-plugin-activation.php:367
+#: core/admin/install-plugins.php:89
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: core/admin/inc/class-tgm-plugin-activation.php:373
+#: core/admin/install-plugins.php:90
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:378
+#: core/admin/install-plugins.php:94
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:392
+#: core/admin/install-plugins.php:96
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:393
+#: core/admin/inc/class-tgm-plugin-activation.php:912
+#: core/admin/inc/class-tgm-plugin-activation.php:2618
+#: core/admin/inc/class-tgm-plugin-activation.php:3669
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:394
+#: core/admin/inc/class-tgm-plugin-activation.php:3244
+#: core/admin/install-plugins.php:97
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:395
+#: core/admin/inc/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: core/admin/inc/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: core/admin/inc/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: core/admin/inc/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:1019
+#: core/admin/inc/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:1206
+#: core/admin/inc/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: core/admin/inc/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:2358
+#: core/admin/inc/importer/views/import.php:60
+#: core/admin/include/importer/views/import.php:60
+msgid "Required"
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: core/admin/inc/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: core/admin/inc/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: core/admin/inc/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: core/admin/inc/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: core/admin/inc/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: core/admin/inc/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: core/admin/inc/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: core/admin/inc/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: core/admin/inc/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: core/admin/inc/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: core/admin/inc/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: core/admin/inc/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: core/admin/inc/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: core/admin/inc/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: core/admin/inc/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:3609
+msgid "Show Details"
+msgstr ""
+
+#: core/admin/inc/class-tgm-plugin-activation.php:3609
+msgid "Hide Details"
+msgstr ""
+
+#. translators: %1$s - the PHP version, %2$s and %3$s - strong HTML tags, %4$s - br HTMl tag.
+#: core/admin/inc/importer/importer.php:47
+#, php-format
+msgid ""
+"The %2$sOne Click Demo Import%3$s plugin requires %2$sPHP 5.6+%3$s to run "
+"properly. Please contact your hosting company and ask them to update the PHP "
+"version of your site to at least PHP 7.4%4$s Your current version of PHP: "
+"%2$s%1$s%3$s"
+msgstr ""
+
+#: core/admin/inc/importer/inc/CreateDemoContent/DemoContentCreator.php:46
+msgid "About Us"
+msgstr ""
+
+#: core/admin/inc/importer/inc/CreateDemoContent/DemoContentCreator.php:47
+msgid ""
+"Introduce yourself and your business with a clean layout to reassure your "
+"leads and customers."
+msgstr ""
+
+#: core/admin/inc/importer/inc/CreateDemoContent/DemoContentCreator.php:53
+msgid "Book Now"
+msgstr ""
+
+#: core/admin/inc/importer/inc/CreateDemoContent/DemoContentCreator.php:54
+msgid ""
+"Expand your reach by accepting appointments online plus detailing your "
+"services and staff."
+msgstr ""
+
+#: core/admin/inc/importer/inc/CreateDemoContent/DemoContentCreator.php:60
+msgid "Contact Us"
+msgstr ""
+
+#: core/admin/inc/importer/inc/CreateDemoContent/DemoContentCreator.php:61
+msgid ""
+"Make it easy to get in touch with you through a completely customizable "
+"built-in contact form."
+msgstr ""
+
+#: core/admin/inc/importer/inc/CreateDemoContent/DemoContentCreator.php:67
+msgid "FAQ"
+msgstr ""
+
+#: core/admin/inc/importer/inc/CreateDemoContent/DemoContentCreator.php:68
+msgid ""
+"Lighten the load on your support team or your inbox by addressing frequently "
+"asked questions."
+msgstr ""
+
+#: core/admin/inc/importer/inc/CreateDemoContent/DemoContentCreator.php:74
+msgid "Meet the Team"
+msgstr ""
+
+#: core/admin/inc/importer/inc/CreateDemoContent/DemoContentCreator.php:75
+msgid ""
+"Help potential clients feel more at ease by showing off your hard-working "
+"and trustworthy team."
+msgstr ""
+
+#: core/admin/inc/importer/inc/CreateDemoContent/DemoContentCreator.php:81
+#: core/helpers.php:312
+msgid "Menu"
+msgstr ""
+
+#: core/admin/inc/importer/inc/CreateDemoContent/DemoContentCreator.php:82
+msgid ""
+"Display your delicious dishes online to entice website visitors to become "
+"restaurant customers."
+msgstr ""
+
+#: core/admin/inc/importer/inc/CreateDemoContent/DemoContentCreator.php:88
+msgid "Portfolio"
+msgstr ""
+
+#: core/admin/inc/importer/inc/CreateDemoContent/DemoContentCreator.php:89
+msgid ""
+"Impress leads by visually showcasing your achievements, case studies, and "
+"past work."
+msgstr ""
+
+#: core/admin/inc/importer/inc/CreateDemoContent/DemoContentCreator.php:95
+msgid "Services"
+msgstr ""
+
+#: core/admin/inc/importer/inc/CreateDemoContent/DemoContentCreator.php:96
+msgid ""
+"Let the world know your services or products' cost and features in an "
+"organized pricing table."
+msgstr ""
+
+#: core/admin/inc/importer/inc/CreateDemoContent/DemoContentCreator.php:102
+msgid "Shop"
+msgstr ""
+
+#: core/admin/inc/importer/inc/CreateDemoContent/DemoContentCreator.php:103
+msgid ""
+"Categorize and sell your products online while displaying reviews from happy "
+"customers."
+msgstr ""
+
+#: core/admin/inc/importer/inc/CreateDemoContent/DemoContentCreator.php:109
+msgid "Testimonials"
+msgstr ""
+
+#: core/admin/inc/importer/inc/CreateDemoContent/DemoContentCreator.php:110
+msgid ""
+"Tap into the power of social proof by displaying real-life testimonials on "
+"your website."
+msgstr ""
+
+#: core/admin/inc/importer/inc/CreateDemoContent/DemoContentCreator.php:151
+msgid ""
+"Could not complete the import process for this page. Required WPForms plugin "
+"is not activated."
+msgstr ""
+
+#: core/admin/inc/importer/inc/CreateDemoContent/DemoContentCreator.php:155
+msgid ""
+"Could not complete the import process for this page. Required WPForms plugin "
+"doesn't exist."
+msgstr ""
+
+#: core/admin/inc/importer/inc/CreateDemoContent/DemoContentCreator.php:158
+msgid "Meet the Team Form"
+msgstr ""
+
+#: core/admin/inc/importer/inc/CreateDemoContent/DemoContentCreator.php:158
+msgid "Contact Form"
+msgstr ""
+
+#: core/admin/inc/importer/inc/CreateDemoContent/DemoContentCreator.php:162
+msgid ""
+"Could not complete the import process for this page. Something went wrong "
+"while creating a WPForms contact form."
+msgstr ""
+
+#: core/admin/inc/importer/inc/CreateDemoContent/DemoContentCreator.php:168
+msgid ""
+"Could not complete the import process for this page. Could not update the "
+"imported page with correct WPForms form ID."
+msgstr ""
+
+#: core/admin/inc/importer/inc/CreateDemoContent/DemoContentCreator.php:181
+msgid ""
+"Could not import this page. You don't have permission to import content."
+msgstr ""
+
+#: core/admin/inc/importer/inc/CreateDemoContent/DemoContentCreator.php:187
+msgid "Could not import this page. Page slug is missing."
+msgstr ""
+
+#. translators: %s - The actual error message.
+#: core/admin/inc/importer/inc/CreateDemoContent/DemoContentCreator.php:214
+#, php-format
+msgid "An error occured while importing this page: %s"
+msgstr ""
+
+#: core/admin/inc/importer/inc/CreateDemoContent/DemoContentCreator.php:254
+msgid "The demo content import file is missing."
+msgstr ""
+
+#: core/admin/inc/importer/inc/CreateDemoContent/DemoContentCreator.php:336
+msgid "Name"
+msgstr ""
+
+#: core/admin/inc/importer/inc/CreateDemoContent/DemoContentCreator.php:343
+#: core/admin/theme-options.php:474 core/admin/theme-options.php:488
+msgid "Email"
+msgstr ""
+
+#: core/admin/inc/importer/inc/CreateDemoContent/DemoContentCreator.php:350
+msgid "Comment or Message"
+msgstr ""
+
+#: core/admin/inc/importer/inc/CreateDemoContent/DemoContentCreator.php:372
+msgid "Thanks for contacting us! We will be in touch with you shortly."
+msgstr ""
+
+#: core/admin/inc/importer/inc/CreateDemoContent/DemoContentCreator.php:377
+msgid "Submit"
+msgstr ""
+
+#: core/admin/inc/importer/inc/CreateDemoContent/DemoContentCreator.php:378
+msgid "Sending..."
+msgstr ""
+
+#: core/admin/inc/importer/inc/CustomizerImporter.php:37
+#: core/admin/inc/importer/inc/CustomizerImporter.php:45
+msgid "Importing customizer settings"
+msgstr ""
+
+#: core/admin/inc/importer/inc/CustomizerImporter.php:43
+msgid "Customizer settings import finished!"
+msgstr ""
+
+#. translators: %s - file path
+#: core/admin/inc/importer/inc/CustomizerImporter.php:73
+#, php-format
+msgid "Error: The customizer import file is missing! File path: %s"
+msgstr ""
+
+#: core/admin/inc/importer/inc/CustomizerImporter.php:93
+msgid ""
+"Error: The customizer import file is not in a correct format. Please make "
+"sure to use the correct customizer import file."
+msgstr ""
+
+#: core/admin/inc/importer/inc/CustomizerImporter.php:99
+msgid ""
+"Error: The customizer import file is not suitable for current theme. You can "
+"only import customizer settings for the same theme or a child theme."
+msgstr ""
+
+#: core/admin/inc/importer/inc/Downloader.php:58
+msgid "Missing URL for downloading a file!"
+msgstr ""
+
+#. translators: %1$s and %3$s - strong HTML tags, %2$s - file URL, %4$s - br HTML tag, %5$s - error code, %6$s - error message.
+#: core/admin/inc/importer/inc/Downloader.php:76
+#, php-format
+msgid ""
+"An error occurred while fetching file from: %1$s%2$s%3$s!%4$sReason: %5$s - "
+"%6$s."
+msgstr ""
+
+#. translators: %1$s - br HTML tag, %2$s - file path
+#: core/admin/inc/importer/inc/Helpers.php:245
+#: core/admin/inc/importer/inc/Helpers.php:288
+#, php-format
+msgid ""
+"An error occurred while writing file to your server! Tried to write a file "
+"to: %1$s%2$s."
+msgstr ""
+
+#. translators: %1$s - br HTML tag, %2$s - file path
+#: core/admin/inc/importer/inc/Helpers.php:322
+#, php-format
+msgid ""
+"An error occurred while reading a file from your server! Tried reading file "
+"from path: %1$s%2$s."
+msgstr ""
+
+#. translators: %1$s and %2$s - strong HTML tags, %3$s - HTML link to a doc page.
+#: core/admin/inc/importer/inc/Helpers.php:345
+#, php-format
+msgid ""
+"This WordPress page does not have %1$sdirect%2$s write file access. This "
+"plugin needs it in order to save the demo import xml file to the upload "
+"directory of your site. You can change this setting with these instructions: "
+"%3$s."
+msgstr ""
+
+#: core/admin/inc/importer/inc/Helpers.php:362
+msgid ""
+"An error occurred while retrieving reading/writing permissions to your "
+"server (could not retrieve WP filesystem credentials)!"
+msgstr ""
+
+#: core/admin/inc/importer/inc/Helpers.php:370
+msgid "Your WordPress login credentials don't allow to use WP_Filesystem!"
+msgstr ""
+
+#: core/admin/inc/importer/inc/Helpers.php:410
+msgid "One Click Demo Import - "
+msgstr ""
+
+#. translators: %1$s - opening div and paragraph HTML tags, %2$s - closing div and paragraph HTML tags.
+#: core/admin/inc/importer/inc/Helpers.php:444
+#, php-format
+msgid ""
+"%1$sYour user role isn't high enough. You don't have permission to import "
+"demo data.%2$s"
+msgstr ""
+
+#: core/admin/inc/importer/inc/Helpers.php:489
+msgid "No file provided."
+msgstr ""
+
+#. translators: %s - the error message.
+#: core/admin/inc/importer/inc/Helpers.php:518
+#, php-format
+msgid "Content file was not uploaded. Error: %s"
+msgstr ""
+
+#: core/admin/inc/importer/inc/Helpers.php:522
+#: core/admin/inc/importer/inc/Helpers.php:539
+#: core/admin/inc/importer/inc/Helpers.php:556
+#: core/admin/inc/importer/inc/Helpers.php:567
+#: core/admin/inc/importer/inc/Helpers.php:587
+#: core/admin/inc/importer/inc/Helpers.php:595
+msgid "Upload files"
+msgstr ""
+
+#. translators: %s - the error message.
+#: core/admin/inc/importer/inc/Helpers.php:535
+#, php-format
+msgid "Widget file was not uploaded. Error: %s"
+msgstr ""
+
+#. translators: %s - the error message.
+#: core/admin/inc/importer/inc/Helpers.php:552
+#, php-format
+msgid "Customizer file was not uploaded. Error: %s"
+msgstr ""
+
+#: core/admin/inc/importer/inc/Helpers.php:565
+msgid "Missing Redux option name! Please also enter the Redux option name!"
+msgstr ""
+
+#. translators: %s - the error message.
+#: core/admin/inc/importer/inc/Helpers.php:583
+#, php-format
+msgid "Redux file was not uploaded. Error: %s"
+msgstr ""
+
+#: core/admin/inc/importer/inc/Helpers.php:593
+msgid "The import files were successfully uploaded!"
+msgstr ""
+
+#. translators: %s - the max execution time.
+#: core/admin/inc/importer/inc/Helpers.php:619
+#, php-format
+msgid "Initial max execution time = %s"
+msgstr ""
+
+#. translators: %1$s - new line break, %2$s - the site URL, %3$s - the file path for content import, %4$s - the file path for widgets import, %5$s - the file path for widgets import, %6$s - the file path for redux import.
+#: core/admin/inc/importer/inc/Helpers.php:623
+#, php-format
+msgid ""
+"Files info:%1$sSite URL = %2$s%1$sData file = %3$s%1$sWidget file = %4$s"
+"%1$sCustomizer file = %5$s%1$sRedux files:%1$s%6$s"
+msgstr ""
+
+#: core/admin/inc/importer/inc/Helpers.php:626
+#: core/admin/inc/importer/inc/Helpers.php:627
+#: core/admin/inc/importer/inc/Helpers.php:628
+#: core/admin/inc/importer/inc/Helpers.php:630
+msgid "not defined!"
+msgstr ""
+
+#: core/admin/inc/importer/inc/Helpers.php:804
+msgid "One Click Demo Import"
+msgstr ""
+
+#: core/admin/inc/importer/inc/Importer.php:174
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/Importer.php:501
+msgid "New AJAX call!"
+msgstr ""
+
+#: core/admin/inc/importer/inc/OneClickDemoImport.php:229
+msgid "No preview image defined for this import."
+msgstr ""
+
+#: core/admin/inc/importer/inc/OneClickDemoImport.php:230
+msgid "Are you sure?"
+msgstr ""
+
+#: core/admin/inc/importer/inc/OneClickDemoImport.php:231
+#: core/admin/inc/importer/views/plugin-page.php:301
+#: templates/elements/comments-form.php:15
+msgid "Cancel"
+msgstr ""
+
+#: core/admin/inc/importer/inc/OneClickDemoImport.php:232
+msgid "Yes, import!"
+msgstr ""
+
+#: core/admin/inc/importer/inc/OneClickDemoImport.php:233
+msgid "Selected demo import:"
+msgstr ""
+
+#: core/admin/inc/importer/inc/OneClickDemoImport.php:234
+msgid "Installing..."
+msgstr ""
+
+#: core/admin/inc/importer/inc/OneClickDemoImport.php:235
+msgid "Importing..."
+msgstr ""
+
+#: core/admin/inc/importer/inc/OneClickDemoImport.php:236
+msgid "Successfully Imported!"
+msgstr ""
+
+#: core/admin/inc/importer/inc/OneClickDemoImport.php:237
+#: core/admin/inc/importer/views/plugin-page.php:295
+msgid "Install Plugin"
+msgstr ""
+
+#: core/admin/inc/importer/inc/OneClickDemoImport.php:238
+#: core/admin/inc/importer/views/plugin-page.php:295
+msgid "Installed"
+msgstr ""
+
+#: core/admin/inc/importer/inc/OneClickDemoImport.php:239
+msgid "Import Failed"
+msgstr ""
+
+#: core/admin/inc/importer/inc/OneClickDemoImport.php:240
+msgid "Whoops, there was a problem importing your content."
+msgstr ""
+
+#: core/admin/inc/importer/inc/OneClickDemoImport.php:241
+msgid ""
+"Looks like some of the plugins failed to install. Please try again. If this "
+"issue persists, please manually install the failing plugins and come back to "
+"this step to import the theme demo data."
+msgstr ""
+
+#: core/admin/inc/importer/inc/OneClickDemoImport.php:242
+msgid ""
+"Invalid file type detected! Please select an XML file for the Content Import."
+msgstr ""
+
+#: core/admin/inc/importer/inc/OneClickDemoImport.php:243
+msgid ""
+"Invalid file type detected! Please select a JSON or WIE file for the Widgets "
+"Import."
+msgstr ""
+
+#: core/admin/inc/importer/inc/OneClickDemoImport.php:244
+msgid ""
+"Invalid file type detected! Please select a DAT file for the Customizer "
+"Import."
+msgstr ""
+
+#: core/admin/inc/importer/inc/OneClickDemoImport.php:245
+msgid ""
+"Invalid file type detected! Please select a JSON file for the Redux Import."
+msgstr ""
+
+#: core/admin/inc/importer/inc/OneClickDemoImport.php:262
+msgid ""
+"Manual import files are missing! Please select the import files and try "
+"again."
+msgstr ""
+
+#: core/admin/inc/importer/inc/OneClickDemoImport.php:277
+#: core/admin/inc/importer/inc/OneClickDemoImport.php:322
+msgid "Manually uploaded files"
+msgstr ""
+
+#: core/admin/inc/importer/inc/OneClickDemoImport.php:335
+#: core/admin/inc/importer/inc/OneClickDemoImport.php:346
+msgid "Downloaded files"
+msgstr ""
+
+#. translators: %s - the name of the selected import.
+#: core/admin/inc/importer/inc/OneClickDemoImport.php:342
+#, php-format
+msgid "The import files for: %s were successfully downloaded!"
+msgstr ""
+
+#: core/admin/inc/importer/inc/OneClickDemoImport.php:351
+msgid "No import files specified!"
+msgstr ""
+
+#: core/admin/inc/importer/inc/OneClickDemoImport.php:474
+#: core/admin/inc/importer/views/import.php:142
+#: core/admin/include/importer/views/import.php:142
+msgid ""
+"Congrats, your demo was imported successfully. You can now begin editing "
+"your site."
+msgstr ""
+
+#: core/admin/inc/importer/inc/OneClickDemoImport.php:475
+msgid "Successful Import"
+msgstr ""
+
+#: core/admin/inc/importer/inc/OneClickDemoImport.php:478
+msgid "Your import completed, but some things may not have imported properly."
+msgstr ""
+
+#. translators: %s - link to the log file.
+#: core/admin/inc/importer/inc/OneClickDemoImport.php:483
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_blank\">View error log</a> for more information."
+msgstr ""
+
+#: core/admin/inc/importer/inc/PluginInstaller.php:186
+msgid ""
+"Could not install the plugin. You don't have permission to install plugins."
+msgstr ""
+
+#: core/admin/inc/importer/inc/PluginInstaller.php:192
+msgid "Could not install the plugin. Plugin slug is missing."
+msgstr ""
+
+#: core/admin/inc/importer/inc/PluginInstaller.php:197
+msgid "Plugin is already installed and activated!"
+msgstr ""
+
+#: core/admin/inc/importer/inc/PluginInstaller.php:205
+msgid "Plugin was already installed! We activated it for you."
+msgstr ""
+
+#: core/admin/inc/importer/inc/PluginInstaller.php:213
+msgid "Could not install the plugin. Don't have file permission."
+msgstr ""
+
+#: core/admin/inc/importer/inc/PluginInstaller.php:253
+msgid "Plugin installed and activated succesfully."
+msgstr ""
+
+#: core/admin/inc/importer/inc/PluginInstaller.php:260
+msgid ""
+"Could not install the plugin. WP Plugin installer could not retrieve plugin "
+"information."
+msgstr ""
+
+#: core/admin/inc/importer/inc/ReduxImporter.php:23
+msgid "The Redux plugin is not activated, so the Redux import was skipped!"
+msgstr ""
+
+#: core/admin/inc/importer/inc/ReduxImporter.php:32
+#: core/admin/inc/importer/inc/ReduxImporter.php:54
+#: core/admin/inc/importer/inc/ReduxImporter.php:67
+msgid "Importing Redux settings"
+msgstr ""
+
+#. translators: %s - the name of the Redux option.
+#: core/admin/inc/importer/inc/ReduxImporter.php:52
+#, php-format
+msgid "Redux settings import for: %s finished successfully!"
+msgstr ""
+
+#. translators: %s - the name of the Redux option.
+#: core/admin/inc/importer/inc/ReduxImporter.php:58
+#, php-format
+msgid ""
+"The Redux option name: %s, was not found in this WP site, so it was not "
+"imported!"
+msgstr ""
+
+#: core/admin/inc/importer/inc/ViewHelpers.php:65
+#: core/admin/inc/importer/views/plugin-page.php:99
+msgid "Theme screenshot"
+msgstr ""
+
+#: core/admin/inc/importer/inc/WidgetImporter.php:40
+#: core/admin/inc/importer/inc/WidgetImporter.php:52
+msgid "Importing widgets"
+msgstr ""
+
+#: core/admin/inc/importer/inc/WidgetImporter.php:88
+msgid "Error: Widget import file could not be found."
+msgstr ""
+
+#: core/admin/inc/importer/inc/WidgetImporter.php:118
+msgid ""
+"Error: Widget import data could not be read. Please try a different file."
+msgstr ""
+
+#: core/admin/inc/importer/inc/WidgetImporter.php:157
+msgid "Sidebar does not exist in theme (moving widget to Inactive)"
+msgstr ""
+
+#: core/admin/inc/importer/inc/WidgetImporter.php:178
+msgid "Site does not support widget"
+msgstr ""
+
+#: core/admin/inc/importer/inc/WidgetImporter.php:211
+msgid "Widget already exists"
+msgstr ""
+
+#: core/admin/inc/importer/inc/WidgetImporter.php:276
+msgid "Imported"
+msgstr ""
+
+#: core/admin/inc/importer/inc/WidgetImporter.php:280
+msgid "Imported to Inactive"
+msgstr ""
+
+#: core/admin/inc/importer/inc/WidgetImporter.php:286
+msgid "No Title"
+msgstr ""
+
+#: core/admin/inc/importer/inc/WidgetImporter.php:333
+msgid "No results for widget import!"
+msgstr ""
+
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/Importer.php:52
+msgid ""
+"The XMLReader class is missing! Please install the XMLReader PHP extension "
+"on your server"
+msgstr ""
+
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/Importer.php:65
+msgid "Could not open the XML file for parsing!"
+msgstr ""
+
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/Importer.php:245
+msgid "Content import start error: "
+msgstr ""
+
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/Importer.php:277
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:173
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:291
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:375
+#, php-format
+msgid ""
+"This WXR file (version %s) is newer than the importer (version %s) and may "
+"not be supported. Please consider updating."
+msgstr ""
+
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:135
+msgid "Could not open the file for parsing"
+msgstr ""
+
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:525
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:588
+msgid "Invalid author mapping"
+msgstr ""
+
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:689
+msgid "Cannot import auto-draft posts"
+msgstr ""
+
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:781
+#, php-format
+msgid "Failed to import \"%s\": Invalid post type %s"
+msgstr ""
+
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:791
+#, php-format
+msgid "%s \"%s\" already exists."
+msgstr ""
+
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:869
+#, php-format
+msgid "Skipping attachment \"%s\", fetching attachments disabled"
+msgstr ""
+
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:883
+#, php-format
+msgid "Failed to import \"%s\" (%s)"
+msgstr ""
+
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:915
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:1833
+#, php-format
+msgid "Imported \"%s\" (%s)"
+msgstr ""
+
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:920
+#, php-format
+msgid "Post %d remapped to %d"
+msgstr ""
+
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:960
+#, php-format
+msgid "Failed to import term: %s - %s"
+msgstr ""
+
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:1105
+msgid "Invalid file type"
+msgstr ""
+
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:1604
+#, php-format
+msgid "Failed to import user \"%s\""
+msgstr ""
+
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:1625
+#, php-format
+msgid "Imported user \"%s\""
+msgstr ""
+
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:1629
+#, php-format
+msgid "User %d remapped to %d"
+msgstr ""
+
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:1794
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:1838
+#, php-format
+msgid "Term %d remapped to %d"
+msgstr ""
+
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:1897
+#, php-format
+msgid "Failed to add metakey: %s, metavalue: %s to term_id: %d"
+msgstr ""
+
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:1906
+#, php-format
+msgid "Meta for term_id %d : %s => %s ; successfully added!"
+msgstr ""
+
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:1958
+#, php-format
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:1980
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:1986
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:2011
+#, php-format
+msgid "Running post-processing for post %d"
+msgstr ""
+
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:2024
+#, php-format
+msgid "Could not find the post parent for \"%s\" (post #%d)"
+msgstr ""
+
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:2029
+#, php-format
+msgid "Post %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:2043
+#, php-format
+msgid "Could not find the author for \"%s\" (post #%d)"
+msgstr ""
+
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:2048
+#, php-format
+msgid "Post %d was imported with author \"%s\", but could not be found"
+msgstr ""
+
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:2074
+#, php-format
+msgid "Post %d was marked for post-processing, but none was required."
+msgstr ""
+
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:2085
+#, php-format
+msgid "Could not update \"%s\" (post #%d) with mapped data"
+msgstr ""
+
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:2130
+#, php-format
+msgid "Could not find the menu object for \"%s\" (post #%d)"
+msgstr ""
+
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:2135
+#, php-format
+msgid ""
+"Post %d was imported with object \"%d\" of type \"%s\", but could not be "
+"found"
+msgstr ""
+
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:2157
+#, php-format
+msgid "Could not find the comment parent for comment #%d"
+msgstr ""
+
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:2161
+#, php-format
+msgid "Comment %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:2175
+#, php-format
+msgid "Could not find the author for comment #%d"
+msgstr ""
+
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:2179
+#, php-format
+msgid "Comment %d was imported with author %d, but could not be found"
+msgstr ""
+
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:2196
+#, php-format
+msgid "Could not update comment #%d with mapped data"
+msgstr ""
+
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:2227
+#, php-format
+msgid "Faulty term_id provided in terms-to-be-remapped array %s"
+msgstr ""
+
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:2237
+#, php-format
+msgid "No taxonomy provided in terms-to-be-remapped array for term #%d"
+msgstr ""
+
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:2247
+#, php-format
+msgid "No parent_slug identified in remapping-array for term: %d"
+msgstr ""
+
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:2255
+#, php-format
+msgid "The term(%d)\"s parent_slug (%s) is not found in the remapping-array."
+msgstr ""
+
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:2269
+#, php-format
+msgid "No data returned by get_term_by for term_id #%d"
+msgstr ""
+
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:2288
+#, php-format
+msgid "Could not update \"%s\" (term #%d) with mapped data"
+msgstr ""
+
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:2298
+#, php-format
+msgid "Term %d was successfully updated with parent %d"
+msgstr ""
+
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:2333
+msgid "Starting remapping of featured images"
+msgstr ""
+
+#: core/admin/inc/importer/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:2342
+#, php-format
+msgid "Remapping featured image ID %d to new ID %d for post ID %d"
+msgstr ""
+
+#: core/admin/inc/importer/views/create-content.php:26
+#: core/admin/inc/importer/views/plugin-page.php:264
+msgid "Create Demo Content"
+msgstr ""
+
+#: core/admin/inc/importer/views/create-content.php:28
+msgid ""
+"Select which pre-built pages you want to import to use on your website. "
+"After that, all you need to do is customize the content to fit your needs "
+"and your page will be good to go."
+msgstr ""
+
+#: core/admin/inc/importer/views/create-content.php:50
+#: core/admin/inc/importer/views/import.php:78
+#: core/admin/include/importer/views/import.php:78
+msgid "Checkmark icon"
+msgstr ""
+
+#: core/admin/inc/importer/views/create-content.php:51
+#: core/admin/inc/importer/views/import.php:82
+#: core/admin/include/importer/views/import.php:82
+msgid "Loading..."
+msgstr ""
+
+#: core/admin/inc/importer/views/create-content.php:60
+msgid "The following plugins will be installed for free: "
+msgstr ""
+
+#: core/admin/inc/importer/views/create-content.php:66
+#: core/admin/inc/importer/views/import.php:96
+#: core/admin/inc/importer/views/install-plugins.php:32
+#: core/admin/include/importer/views/import.php:96
+msgid "Back icon"
+msgstr ""
+
+#: core/admin/inc/importer/views/create-content.php:66
+#: core/admin/inc/importer/views/import.php:96
+#: core/admin/inc/importer/views/install-plugins.php:32
+#: core/admin/include/importer/views/import.php:96
+msgid "Go Back"
+msgstr ""
+
+#: core/admin/inc/importer/views/create-content.php:67
+msgid "Import"
+msgstr ""
+
+#: core/admin/inc/importer/views/import.php:28
+#: core/admin/inc/importer/views/import.php:107
+#: core/admin/inc/importer/views/import.php:131
+#: core/admin/inc/importer/views/plugin-page.php:51
+#: core/admin/include/importer/views/import.php:28
+#: core/admin/include/importer/views/import.php:107
+#: core/admin/include/importer/views/import.php:131
+msgid "Import Demo Content"
+msgstr ""
+
+#: core/admin/inc/importer/views/import.php:44
+#: core/admin/include/importer/views/import.php:44
+msgid ""
+"Your website needs a few essential plugins. The following plugins will be "
+"installed and activated."
+msgstr ""
+
+#: core/admin/inc/importer/views/import.php:50
+#: core/admin/include/importer/views/import.php:50
+msgid ""
+"All required/recommended plugins are already installed. You can import your "
+"demo content."
+msgstr ""
+
+#: core/admin/inc/importer/views/import.php:60
+#: core/admin/include/importer/views/import.php:60
+msgid "Suggested"
+msgstr ""
+
+#: core/admin/inc/importer/views/import.php:63
+#: core/admin/include/importer/views/import.php:63
+msgid "Star icon"
+msgstr ""
+
+#: core/admin/inc/importer/views/import.php:80
+#: core/admin/include/importer/views/import.php:80
+msgid "Lock icon"
+msgstr ""
+
+#: core/admin/inc/importer/views/import.php:97
+#: core/admin/inc/importer/views/plugin-page.php:302
+#: core/admin/include/importer/views/import.php:97
+msgid "Continue & Import"
+msgstr ""
+
+#: core/admin/inc/importer/views/import.php:116
+#: core/admin/include/importer/views/import.php:116
+msgid ""
+"Please sit tight while we import your content. Do not refresh the page or "
+"hit the back button."
+msgstr ""
+
+#: core/admin/inc/importer/views/import.php:122
+#: core/admin/include/importer/views/import.php:122
+msgid "Importing animation"
+msgstr ""
+
+#: core/admin/inc/importer/views/import.php:154
+#: core/admin/include/importer/views/import.php:154
+msgid "Visit Site"
+msgstr ""
+
+#: core/admin/inc/importer/views/install-plugins.php:25
+msgid "Install Recommended Plugins"
+msgstr ""
+
+#: core/admin/inc/importer/views/install-plugins.php:27
+msgid ""
+"Want to use the best plugins for the job? Here is the list of awesome "
+"plugins that will help you achieve your goals."
+msgstr ""
+
+#: core/admin/inc/importer/views/install-plugins.php:33
+msgid "Install & Activate"
+msgstr ""
+
+#. translators: %1$s - the opening div and paragraph HTML tags, %2$s and %3$s - strong HTML tags, %4$s - the closing div and paragraph HTML tags.
+#: core/admin/inc/importer/views/plugin-page.php:34
+#, php-format
+msgid ""
+"%1$sWarning: your server is using %2$sPHP safe mode%3$s. This means that you "
+"might experience server timeout errors.%4$s"
+msgstr ""
+
+#: core/admin/inc/importer/views/plugin-page.php:69
+msgid ""
+"Import process will take time needed to download all attachments from the "
+"demo web site. "
+msgstr ""
+
+#: core/admin/inc/importer/views/plugin-page.php:70
+msgid ""
+"If the import stalls and fails to respond after a few minutes you are "
+"suffering from PHP configuration limits that are set too low to complete the "
+"process."
+msgstr ""
+
+#: core/admin/inc/importer/views/plugin-page.php:71
+msgid ""
+" You should contact your hosting provider and ask them to increase those "
+"limits."
+msgstr ""
+
+#: core/admin/inc/importer/views/plugin-page.php:90
+msgid ""
+"There are no predefined import files available for this theme. Please upload "
+"the import files manually below."
+msgstr ""
+
+#. translators: %s: Theme version.
+#: core/admin/inc/importer/views/plugin-page.php:112
+#, php-format
+msgid "Version: %s"
+msgstr ""
+
+#. translators: %s: Theme author link.
+#: core/admin/inc/importer/views/plugin-page.php:119
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: core/admin/inc/importer/views/plugin-page.php:127
+msgid "Tags:"
+msgstr ""
+
+#: core/admin/inc/importer/views/plugin-page.php:133
+msgid "Switch to Manual Import"
+msgstr ""
+
+#: core/admin/inc/importer/views/plugin-page.php:135
+msgid "Switch back to Theme Predefined Imports"
+msgstr ""
+
+#: core/admin/inc/importer/views/plugin-page.php:146
+msgid "Manual Demo File Import"
+msgstr ""
+
+#: core/admin/inc/importer/views/plugin-page.php:155
+msgid "Content import icon"
+msgstr ""
+
+#: core/admin/inc/importer/views/plugin-page.php:157
+msgid "Import Content"
+msgstr ""
+
+#: core/admin/inc/importer/views/plugin-page.php:158
+msgid "Select an XML file to import."
+msgstr ""
+
+#: core/admin/inc/importer/views/plugin-page.php:161
+#: core/admin/inc/importer/views/plugin-page.php:182
+#: core/admin/inc/importer/views/plugin-page.php:203
+#: core/admin/inc/importer/views/plugin-page.php:225
+#: core/admin/inc/importer/views/plugin-page.php:250
+#: core/admin/inc/importer/views/plugin-page.php:268
+#: core/admin/inc/importer/views/plugin-page.php:286
+msgid "Info icon"
+msgstr ""
+
+#: core/admin/inc/importer/views/plugin-page.php:166
+#: core/admin/inc/importer/views/plugin-page.php:187
+#: core/admin/inc/importer/views/plugin-page.php:208
+#: core/admin/inc/importer/views/plugin-page.php:230
+msgid "Select a File"
+msgstr ""
+
+#: core/admin/inc/importer/views/plugin-page.php:176
+msgid "Widgets import icon"
+msgstr ""
+
+#: core/admin/inc/importer/views/plugin-page.php:178
+msgid "Import Widgets"
+msgstr ""
+
+#: core/admin/inc/importer/views/plugin-page.php:179
+msgid "Select a JSON/WIE file to import."
+msgstr ""
+
+#: core/admin/inc/importer/views/plugin-page.php:197
+msgid "Customizer import icon"
+msgstr ""
+
+#: core/admin/inc/importer/views/plugin-page.php:199
+msgid "Import Customizer"
+msgstr ""
+
+#: core/admin/inc/importer/views/plugin-page.php:200
+msgid "Select a DAT file to import."
+msgstr ""
+
+#: core/admin/inc/importer/views/plugin-page.php:219
+msgid "Redux import icon"
+msgstr ""
+
+#: core/admin/inc/importer/views/plugin-page.php:221
+msgid "Import Redux"
+msgstr ""
+
+#: core/admin/inc/importer/views/plugin-page.php:222
+msgid "Select a JSON file and enter Redux option name."
+msgstr ""
+
+#: core/admin/inc/importer/views/plugin-page.php:233
+msgid "Enter Option Name"
+msgstr ""
+
+#: core/admin/inc/importer/views/plugin-page.php:244
+msgid "Recommended plugins icon"
+msgstr ""
+
+#: core/admin/inc/importer/views/plugin-page.php:246
+msgid "Recommended Plugins"
+msgstr ""
+
+#: core/admin/inc/importer/views/plugin-page.php:247
+msgid "Install our recommended plugins."
+msgstr ""
+
+#: core/admin/inc/importer/views/plugin-page.php:262
+msgid "Create demo content icon"
+msgstr ""
+
+#: core/admin/inc/importer/views/plugin-page.php:265
+msgid "Create useful content with a few clicks."
+msgstr ""
+
+#: core/admin/inc/importer/views/plugin-page.php:272
+msgid "Create Content"
+msgstr ""
+
+#: core/admin/inc/importer/views/plugin-page.php:280
+msgid "Create landing pages icon"
+msgstr ""
+
+#: core/admin/inc/importer/views/plugin-page.php:282
+msgid "Create Landing Pages"
+msgstr ""
+
+#: core/admin/inc/importer/views/plugin-page.php:283
+msgid "Create beautiful converting pages."
+msgstr ""
+
+#: core/admin/inc/importer/views/plugin-page.php:330
+msgid "All Demos"
+msgstr ""
+
+#: core/admin/inc/importer/views/plugin-page.php:343
+msgid "Search Demos..."
+msgstr ""
+
+#: core/admin/inc/importer/views/plugin-page.php:366
+msgid "No preview image."
+msgstr ""
+
+#: core/admin/inc/importer/views/plugin-page.php:373
+msgid "Preview Demo"
+msgstr ""
+
+#: core/admin/inc/importer/views/plugin-page.php:375
+msgid "Import Demo"
+msgstr ""
+
+#: core/admin/inc/importer/views/plugin-page.php:393
+msgid "Please, activate your theme license in order to use the Demo Importer."
+msgstr ""
+
+#: core/admin/install-plugins.php:21
+msgid "Eagle Core"
+msgstr ""
+
+#: core/admin/install-plugins.php:29
+msgid "Eagle Booking"
+msgstr ""
+
+#: core/admin/install-plugins.php:36
+msgid "Revolution Slider"
+msgstr ""
+
+#: core/admin/install-plugins.php:44
+msgid "Envato Market"
+msgstr ""
+
+#: core/admin/install-plugins.php:52
+msgid "Elementor"
+msgstr ""
+
+#: core/admin/install-plugins.php:58
+msgid "Contact Form 7"
+msgstr ""
+
+#: core/admin/install-plugins.php:88
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/admin/install-plugins.php:91
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/admin/install-plugins.php:93
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/admin/install-plugins.php:95
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/admin/install-plugins.php:98
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: core/admin/metaboxes.php:15 core/admin/theme-options.php:156
+#: core/admin/theme-options.php:749
+msgid "Layout"
+msgstr ""
+
+#: core/admin/metaboxes.php:22
+msgid "Top Bar"
+msgstr ""
+
+#: core/admin/metaboxes.php:33 core/admin/theme-options.php:412
+msgid "Transparent Top Bar"
+msgstr ""
+
+#: core/admin/metaboxes.php:45 core/admin/theme-options.php:218
+msgid "Sticky Header"
+msgstr ""
+
+#: core/admin/metaboxes.php:56
+msgid "Transparent Header"
+msgstr ""
+
+#: core/admin/metaboxes.php:67
+msgid "Semi Transparent Header"
+msgstr ""
+
+#: core/admin/metaboxes.php:78
+msgid "Page Title"
+msgstr ""
+
+#: core/admin/metaboxes.php:89
+msgid "Padding Left / Right"
+msgstr ""
+
+#: core/admin/metaboxes.php:99
+msgid "Padding Top / Bottom"
+msgstr ""
+
+#: core/admin/metaboxes.php:110 core/admin/theme-options.php:1135
+#: core/admin/theme-options.php:1296
+msgid "Sidebar"
+msgstr ""
+
+#: core/admin/metaboxes.php:115 core/admin/theme-options.php:1138
+#: core/admin/theme-options.php:1299
+msgid "Left"
+msgstr ""
+
+#: core/admin/metaboxes.php:116 core/admin/theme-options.php:1139
+#: core/admin/theme-options.php:1300
+msgid "None"
+msgstr ""
+
+#: core/admin/metaboxes.php:117 core/admin/theme-options.php:1140
+#: core/admin/theme-options.php:1301
+msgid "Right"
+msgstr ""
+
+#: core/admin/metaboxes.php:118
+msgid "Inherit"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: core/admin/theme-options.php:29
+msgid "Himara"
+msgstr ""
+
+#: core/admin/theme-options.php:30
+msgid "Himara Options"
+msgstr ""
+
+#: core/admin/theme-options.php:150
+msgid "Header"
+msgstr ""
+
+#: core/admin/theme-options.php:157
+msgid "Choose the header layout"
+msgstr ""
+
+#: core/admin/theme-options.php:169
+msgid "State"
+msgstr ""
+
+#: core/admin/theme-options.php:170
+msgid "Choose the vertical header state"
+msgstr ""
+
+#: core/admin/theme-options.php:184
+msgid "Logo"
+msgstr ""
+
+#: core/admin/theme-options.php:192
+msgid "Logo Height"
+msgstr ""
+
+#: core/admin/theme-options.php:193 core/admin/theme-options.php:211
+msgid "Note: Logo Height value is in px."
+msgstr ""
+
+#: core/admin/theme-options.php:201
+msgid "Second Logo (Optional)"
+msgstr ""
+
+#: core/admin/theme-options.php:202
+msgid ""
+"Logo used for the transparent header and for the mobile header when the "
+"vertical header is selected"
+msgstr ""
+
+#: core/admin/theme-options.php:210
+msgid "Second Logo Height"
+msgstr ""
+
+#: core/admin/theme-options.php:219 core/admin/theme-options.php:228
+msgid "This option can be overridden on each page's layout option."
+msgstr ""
+
+#: core/admin/theme-options.php:227
+msgid "Enable Transparent Header"
+msgstr ""
+
+#: core/admin/theme-options.php:237
+msgid "Logo Margin Top"
+msgstr ""
+
+#: core/admin/theme-options.php:238
+msgid "Note: Logo margin value is in px."
+msgstr ""
+
+#: core/admin/theme-options.php:245 core/admin/theme-options.php:762
+#: core/admin/theme-options.php:1004
+msgid "Background Color"
+msgstr ""
+
+#: core/admin/theme-options.php:253
+msgid "Border Color Bottom"
+msgstr ""
+
+#: core/admin/theme-options.php:262
+msgid "Border Color Right"
+msgstr ""
+
+#: core/admin/theme-options.php:271
+msgid "Main Menu Color"
+msgstr ""
+
+#: core/admin/theme-options.php:282
+msgid "Sub Menu Background Color"
+msgstr ""
+
+#: core/admin/theme-options.php:290
+msgid "Sub Menu Hover Background Color"
+msgstr ""
+
+#: core/admin/theme-options.php:298
+msgid "Sub Menu Border Color"
+msgstr ""
+
+#: core/admin/theme-options.php:306
+msgid "Sub Menu Color"
+msgstr ""
+
+#: core/admin/theme-options.php:318
+msgid "Toggle Menu Color"
+msgstr ""
+
+#: core/admin/theme-options.php:326
+msgid "Toggle Menu Color on Transparent Header"
+msgstr ""
+
+#: core/admin/theme-options.php:335
+msgid "Toggle Menu Color on Scroll"
+msgstr ""
+
+#: core/admin/theme-options.php:343
+msgid "Vertical Header Content"
+msgstr ""
+
+#: core/admin/theme-options.php:355
+msgid "Vertical Header Message"
+msgstr ""
+
+#: core/admin/theme-options.php:356
+msgid "Please enter the vertical menu message"
+msgstr ""
+
+#: core/admin/theme-options.php:363
+msgid "Facebook Link"
+msgstr ""
+
+#: core/admin/theme-options.php:364
+msgid "Εnter your Facebook URL"
+msgstr ""
+
+#: core/admin/theme-options.php:371
+msgid "Instagram Link"
+msgstr ""
+
+#: core/admin/theme-options.php:372
+msgid "Εnter your Instagram URL"
+msgstr ""
+
+#: core/admin/theme-options.php:379
+msgid "Booking.com Link"
+msgstr ""
+
+#: core/admin/theme-options.php:380
+msgid "Εnter your Booking.com URL"
+msgstr ""
+
+#: core/admin/theme-options.php:387
+msgid "Airbnb Link"
+msgstr ""
+
+#: core/admin/theme-options.php:388
+msgid "Εnter your Airbnb URL"
+msgstr ""
+
+#: core/admin/theme-options.php:395
+msgid "Pinterest Link"
+msgstr ""
+
+#: core/admin/theme-options.php:396
+msgid "Εnter your Pinterest URL"
+msgstr ""
+
+#: core/admin/theme-options.php:403
+msgid "Enable Top Bar"
+msgstr ""
+
+#: core/admin/theme-options.php:404 core/admin/theme-options.php:413
+msgid "This option can be overridden on each page's layout option"
+msgstr ""
+
+#: core/admin/theme-options.php:421
+msgid "Top Bar Background Color"
+msgstr ""
+
+#: core/admin/theme-options.php:430
+msgid "Top Bar Border Color"
+msgstr ""
+
+#: core/admin/theme-options.php:439
+msgid "Top Bar Color"
+msgstr ""
+
+#: core/admin/theme-options.php:451 core/admin/theme-options.php:486
+msgid "Welcome Message"
+msgstr ""
+
+#: core/admin/theme-options.php:452
+msgid "Please enter your welcome message"
+msgstr ""
+
+#: core/admin/theme-options.php:459 core/admin/theme-options.php:487
+msgid "Phone"
+msgstr ""
+
+#: core/admin/theme-options.php:460
+msgid "Please enter your phone number"
+msgstr ""
+
+#: core/admin/theme-options.php:466
+msgid "Phone Link"
+msgstr ""
+
+#: core/admin/theme-options.php:467
+msgid "Please enter your phone number link"
+msgstr ""
+
+#: core/admin/theme-options.php:475
+msgid "Please enter your Email"
+msgstr ""
+
+#: core/admin/theme-options.php:483
+msgid "Hide on Mobile"
+msgstr ""
+
+#: core/admin/theme-options.php:484
+msgid "Hide or show top bar elements when viewing on a mobile device."
+msgstr ""
+
+#: core/admin/theme-options.php:510
+msgid "Typography"
+msgstr ""
+
+#: core/admin/theme-options.php:511
+msgid "Manage fonts and typography settings"
+msgstr ""
+
+#: core/admin/theme-options.php:517
+msgid "Main text font"
+msgstr ""
+
+#: core/admin/theme-options.php:525
+msgid "This is your main font, used for standard text"
+msgstr ""
+
+#: core/admin/theme-options.php:543
+msgid "Headings font"
+msgstr ""
+
+#: core/admin/theme-options.php:552
+msgid "This is a font used for titles and headings"
+msgstr ""
+
+#: core/admin/theme-options.php:571
+msgid "Navigation font"
+msgstr ""
+
+#: core/admin/theme-options.php:579
+msgid "This is a font used for main website navigation"
+msgstr ""
+
+#: core/admin/theme-options.php:597
+msgid "Main text font size"
+msgstr ""
+
+#: core/admin/theme-options.php:598
+msgid "This is your default text font size"
+msgstr ""
+
+#: core/admin/theme-options.php:608
+msgid "Navigation font size"
+msgstr ""
+
+#: core/admin/theme-options.php:609
+msgid "Applies to main website navigation"
+msgstr ""
+
+#: core/admin/theme-options.php:619
+msgid "H1 font size"
+msgstr ""
+
+#: core/admin/theme-options.php:620
+msgid "Applies to H1 elements"
+msgstr ""
+
+#: core/admin/theme-options.php:630
+msgid "H2 font size"
+msgstr ""
+
+#: core/admin/theme-options.php:631
+msgid "Applies to H2 elements"
+msgstr ""
+
+#: core/admin/theme-options.php:641
+msgid "H3 font size"
+msgstr ""
+
+#: core/admin/theme-options.php:642
+msgid "Applies to H3 elements"
+msgstr ""
+
+#: core/admin/theme-options.php:652
+msgid "H4 font size"
+msgstr ""
+
+#: core/admin/theme-options.php:653
+msgid "Applies to H4 elements"
+msgstr ""
+
+#: core/admin/theme-options.php:663
+msgid "H5 font size"
+msgstr ""
+
+#: core/admin/theme-options.php:664
+msgid "Applies to H5 elements"
+msgstr ""
+
+#: core/admin/theme-options.php:674
+msgid "H6 font size"
+msgstr ""
+
+#: core/admin/theme-options.php:675
+msgid "Applies to H6 elements"
+msgstr ""
+
+#: core/admin/theme-options.php:692
+msgid "Color Scheme"
+msgstr ""
+
+#: core/admin/theme-options.php:698
+msgid "Primary Color"
+msgstr ""
+
+#: core/admin/theme-options.php:699
+msgid "Main Color Scheme"
+msgstr ""
+
+#: core/admin/theme-options.php:710
+msgid "Body Background Color"
+msgstr ""
+
+#: core/admin/theme-options.php:718
+msgid "Body Text Color"
+msgstr ""
+
+#: core/admin/theme-options.php:726 core/admin/theme-options.php:1022
+msgid "Heading Color"
+msgstr ""
+
+#: core/admin/theme-options.php:742
+msgid "Settings"
+msgstr ""
+
+#: core/admin/theme-options.php:743
+msgid "These are some additional miscellaneous theme settings"
+msgstr ""
+
+#: core/admin/theme-options.php:750
+msgid "Choose your site layout"
+msgstr ""
+
+#: core/admin/theme-options.php:763
+msgid "Set the background color"
+msgstr ""
+
+#: core/admin/theme-options.php:772 core/admin/theme-options.php:862
+#: core/admin/theme-options.php:1221
+msgid "Background Image"
+msgstr ""
+
+#: core/admin/theme-options.php:773 core/admin/theme-options.php:863
+#: core/admin/theme-options.php:1222
+msgid "Upload your background image"
+msgstr ""
+
+#: core/admin/theme-options.php:781
+msgid "Container"
+msgstr ""
+
+#: core/admin/theme-options.php:782
+msgid "Enable Container"
+msgstr ""
+
+#: core/admin/theme-options.php:789
+msgid "Image Lightbox"
+msgstr ""
+
+#: core/admin/theme-options.php:790
+msgid "Enable theme lighbox or use Elementor default lightbox"
+msgstr ""
+
+#: core/admin/theme-options.php:797
+msgid "Main Padding"
+msgstr ""
+
+#: core/admin/theme-options.php:798
+msgid "Enable Padding"
+msgstr ""
+
+#: core/admin/theme-options.php:805
+msgid "Smooth Scroll"
+msgstr ""
+
+#: core/admin/theme-options.php:806
+msgid "Enable Smooth Scroll"
+msgstr ""
+
+#: core/admin/theme-options.php:813
+msgid "Preloader"
+msgstr ""
+
+#: core/admin/theme-options.php:814
+msgid "Enable Preloader"
+msgstr ""
+
+#: core/admin/theme-options.php:822
+msgid "Preloader only on Home Page"
+msgstr ""
+
+#: core/admin/theme-options.php:823
+msgid "Enable Preloader on Home Page"
+msgstr ""
+
+#: core/admin/theme-options.php:831
+msgid "Preloader Style"
+msgstr ""
+
+#: core/admin/theme-options.php:833
+msgid "Style 1"
+msgstr ""
+
+#: core/admin/theme-options.php:834
+msgid "Style 2"
+msgstr ""
+
+#: core/admin/theme-options.php:835
+msgid "Style 3"
+msgstr ""
+
+#: core/admin/theme-options.php:844
+msgid "Preloader Background Color"
+msgstr ""
+
+#: core/admin/theme-options.php:853
+msgid "Preloader Color"
+msgstr ""
+
+#: core/admin/theme-options.php:872
+msgid "Back to Top Button"
+msgstr ""
+
+#: core/admin/theme-options.php:873
+msgid "Enable the back to top button on your pages"
+msgstr ""
+
+#: core/admin/theme-options.php:880
+msgid "Back to Top Button on Mobile"
+msgstr ""
+
+#: core/admin/theme-options.php:881
+msgid "Enable the back to top button when viewing on a mobile device."
+msgstr ""
+
+#: core/admin/theme-options.php:889
+msgid "Back to Top Button Side"
+msgstr ""
+
+#: core/admin/theme-options.php:890
+msgid "Choose the side to display the back to top button"
+msgstr ""
+
+#: core/admin/theme-options.php:904
+msgid "Back to top bottom position"
+msgstr ""
+
+#: core/admin/theme-options.php:905 core/admin/theme-options.php:914
+#: core/admin/theme-options.php:924
+msgid "Note: value is in px."
+msgstr ""
+
+#: core/admin/theme-options.php:913
+msgid "Back to top right position"
+msgstr ""
+
+#: core/admin/theme-options.php:923
+msgid "Back to top left position"
+msgstr ""
+
+#: core/admin/theme-options.php:932
+msgid "Back to Top Button Color"
+msgstr ""
+
+#: core/admin/theme-options.php:941
+msgid "Back to Top Button Hover Color"
+msgstr ""
+
+#: core/admin/theme-options.php:950
+msgid "Back to Top Button Icon Color"
+msgstr ""
+
+#: core/admin/theme-options.php:968 core/admin/theme-options.php:975
+msgid "Footer"
+msgstr ""
+
+#: core/admin/theme-options.php:969
+msgid "Manage default settings for your Footer"
+msgstr ""
+
+#: core/admin/theme-options.php:976
+msgid "Choose if you want to have a footer"
+msgstr ""
+
+#: core/admin/theme-options.php:988
+msgid "Columns"
+msgstr ""
+
+#: core/admin/theme-options.php:989
+msgid "Choose number of columns to display in footer area"
+msgstr ""
+
+#: core/admin/theme-options.php:990
+#, php-format
+msgid ""
+"Each column represents one Footer Sidebar in <a href=\"%s\" target=\"_blank"
+"\">Apperance -> Widgets</a> settings."
+msgstr ""
+
+#: core/admin/theme-options.php:992
+msgid "1 Column"
+msgstr ""
+
+#: core/admin/theme-options.php:993
+msgid "2 Columns"
+msgstr ""
+
+#: core/admin/theme-options.php:994
+msgid "3 Columns"
+msgstr ""
+
+#: core/admin/theme-options.php:995
+msgid "4 Columns"
+msgstr ""
+
+#: core/admin/theme-options.php:1013
+msgid "Border Color"
+msgstr ""
+
+#: core/admin/theme-options.php:1031
+msgid "Text Color"
+msgstr ""
+
+#: core/admin/theme-options.php:1040
+msgid "Links Color"
+msgstr ""
+
+#: core/admin/theme-options.php:1052
+msgid "Copyright Background Color"
+msgstr ""
+
+#: core/admin/theme-options.php:1061
+msgid "Hover Underline Color"
+msgstr ""
+
+#: core/admin/theme-options.php:1070
+msgid "Copyright Text"
+msgstr ""
+
+#: core/admin/theme-options.php:1071
+msgid ""
+"Please enter the copyright section text. e.g. &copy; 2022 Hotel Himara. All "
+"Rights Reserved"
+msgstr ""
+
+#: core/admin/theme-options.php:1078
+msgid "Copyright Text Color"
+msgstr ""
+
+#: core/admin/theme-options.php:1079
+msgid "Choose a color for your copyright text"
+msgstr ""
+
+#: core/admin/theme-options.php:1088
+msgid "Display \"Accepted Credit Cards\""
+msgstr ""
+
+#: core/admin/theme-options.php:1089
+msgid "Check if you want to display Accepted Credit Cards"
+msgstr ""
+
+#: core/admin/theme-options.php:1105
+msgid "Blog"
+msgstr ""
+
+#: core/admin/theme-options.php:1106
+msgid "Manage your Blog"
+msgstr ""
+
+#: core/admin/theme-options.php:1112
+msgid "Blog Archive Layout"
+msgstr ""
+
+#: core/admin/theme-options.php:1114 core/admin/theme-options.php:1126
+msgid "Classic View"
+msgstr ""
+
+#: core/admin/theme-options.php:1115
+msgid "List View"
+msgstr ""
+
+#: core/admin/theme-options.php:1116
+msgid "Grid View"
+msgstr ""
+
+#: core/admin/theme-options.php:1124
+msgid "Blog Single Layout"
+msgstr ""
+
+#: core/admin/theme-options.php:1127
+msgid "Hero View"
+msgstr ""
+
+#: core/admin/theme-options.php:1136 core/admin/theme-options.php:1297
+msgid "Select sidebar side for pages"
+msgstr ""
+
+#: core/admin/theme-options.php:1149
+msgid "Excerpt limit"
+msgstr ""
+
+#: core/admin/theme-options.php:1150
+msgid "Specify your excerpt limit"
+msgstr ""
+
+#: core/admin/theme-options.php:1151
+msgid "Note: Value represents number of characters"
+msgstr ""
+
+#: core/admin/theme-options.php:1159
+msgid "Archive Page Header"
+msgstr ""
+
+#: core/admin/theme-options.php:1160
+msgid ""
+"Enable the page header for archive pages (index, single, search, category, "
+"tags)"
+msgstr ""
+
+#: core/admin/theme-options.php:1167 single.php:38
+msgid "Tags"
+msgstr ""
+
+#: core/admin/theme-options.php:1168
+msgid "Check if you want to display tags"
+msgstr ""
+
+#: core/admin/theme-options.php:1175
+msgid "Share Buttons"
+msgstr ""
+
+#: core/admin/theme-options.php:1176
+msgid "Check if you want to display share buttons"
+msgstr ""
+
+#: core/admin/theme-options.php:1183 templates/single/author.php:6
+msgid "About Author"
+msgstr ""
+
+#: core/admin/theme-options.php:1184
+msgid "Check if you want to display the about author area"
+msgstr ""
+
+#: core/admin/theme-options.php:1201 core/helpers.php:1249
+msgid "Page"
+msgstr ""
+
+#: core/admin/theme-options.php:1202
+msgid "Manage your Page"
+msgstr ""
+
+#: core/admin/theme-options.php:1208
+msgid "Page Header"
+msgstr ""
+
+#: core/admin/theme-options.php:1209
+msgid "Choose Page Header Style"
+msgstr ""
+
+#: core/admin/theme-options.php:1230
+msgid "Page Header Background Color"
+msgstr ""
+
+#: core/admin/theme-options.php:1239
+msgid "Page Header Border Color"
+msgstr ""
+
+#: core/admin/theme-options.php:1248
+msgid "Page Header Text Color"
+msgstr ""
+
+#: core/admin/theme-options.php:1256
+msgid "Display Breadcrumb"
+msgstr ""
+
+#: core/admin/theme-options.php:1257
+msgid "Check if you want to display breadcrumb area on pages"
+msgstr ""
+
+#: core/admin/theme-options.php:1265
+msgid "Page Header Padding Top"
+msgstr ""
+
+#: core/admin/theme-options.php:1266 core/admin/theme-options.php:1275
+msgid "Note: padding value is in px."
+msgstr ""
+
+#: core/admin/theme-options.php:1274
+msgid "Page Header Padding Bottom"
+msgstr ""
+
+#: core/admin/theme-options.php:1282
+msgid "Page Header Aligment"
+msgstr ""
+
+#: core/admin/theme-options.php:1283
+msgid "Choose Page Header aligment"
+msgstr ""
+
+#: core/admin/theme-options.php:1318
+msgid "Google Map"
+msgstr ""
+
+#: core/admin/theme-options.php:1324
+msgid "API Key"
+msgstr ""
+
+#: core/admin/theme-options.php:1325
+#, php-format
+msgid "<a href=\"%s\" target=\"_blank\">Get API Key</a>."
+msgstr ""
+
+#: core/admin/theme-options.php:1338
+msgid "Additional Code"
+msgstr ""
+
+#: core/admin/theme-options.php:1339
+msgid "These options are for advanced users only, so use it with caution."
+msgstr ""
+
+#: core/admin/theme-options.php:1345
+msgid "Additional CSS"
+msgstr ""
+
+#: core/admin/theme-options.php:1346
+msgid "Use this field to add CSS code and modify the default theme styling"
+msgstr ""
+
+#: core/admin/theme-options.php:1355
+msgid "Additional JavaScript"
+msgstr ""
+
+#: core/admin/theme-options.php:1356
+msgid "Use this field to add JavaScript code"
+msgstr ""
+
+#: core/admin/theme-options.php:1357
+msgid ""
+"Note: Please use clean execution JavaScript code without \"script\" tags"
+msgstr ""
+
+#: core/admin/theme-options.php:1373
+msgid "Translation"
+msgstr ""
+
+#: core/admin/theme-options.php:1374
+msgid "Please make sure to install and set up the respective plugin first"
+msgstr ""
+
+#: core/admin/theme-options.php:1383
+msgid "Display Language Switcher in the footer"
+msgstr ""
+
+#: core/admin/theme-options.php:1385
+msgid "WPML"
+msgstr ""
+
+#: core/admin/theme-options.php:1386
+msgid "Polylang"
+msgstr ""
+
+#: core/admin/theme-options.php:1395
+#, php-format
+msgid ""
+"If you want to build a multi Multilingual hotel website we suggest WPML "
+"plugin. <a href=\"%s\" target=\"_blank\">Get WPML</a>."
+msgstr ""
+
+#: core/admin/theme-options.php:1412
+msgid "Performance"
+msgstr ""
+
+#: core/admin/theme-options.php:1413
+msgid ""
+"Use these options to put your theme to a high speed as well as save your "
+"server resources!"
+msgstr ""
+
+#: core/admin/theme-options.php:1420
+msgid "Disable additional image sizes"
+msgstr ""
+
+#: core/admin/theme-options.php:1421
+msgid ""
+"By default, theme generates additional image size for each of the layouts it "
+"offers. You can use this option to avoid creating additional sizes if you "
+"are not using particular layout in order to save your server space."
+msgstr ""
+
+#: core/admin/theme-options.php:1423 core/helpers.php:215
+msgid "480 x 480"
+msgstr ""
+
+#: core/admin/theme-options.php:1424 core/helpers.php:216
+msgid "400 x 800"
+msgstr ""
+
+#: core/admin/theme-options.php:1425 core/helpers.php:217
+msgid "600 x 400"
+msgstr ""
+
+#: core/admin/theme-options.php:1426 core/helpers.php:218
+msgid "1170 x 500"
+msgstr ""
+
+#: core/admin/theme-options.php:1427 core/helpers.php:219
+msgid "1920 x 800"
+msgstr ""
+
+#: core/admin/theme-options.php:1444
+msgid "Important note:"
+msgstr ""
+
+#: core/admin/theme-options.php:1445
+#, php-format
+msgid ""
+"Your front page is currently set to display <strong>\"latest posts\"</"
+"strong>. In order to use these options, you need to set your front page "
+"option as <strong>\"static page\"</strong> inside <a href=\"%s\" target="
+"\"_blank\">Settings => Reading</a>."
+msgstr ""
+
+#: core/helpers.php:807
+msgid "Add a menu"
+msgstr ""
+
+#: core/helpers.php:885
+msgid "Share"
+msgstr ""
+
+#: core/helpers.php:887
+msgid "Share on Facebook"
+msgstr ""
+
+#: core/helpers.php:888
+msgid "Share on Twitter"
+msgstr ""
+
+#: core/helpers.php:889
+msgid "Share on Pinterest"
+msgstr ""
+
+#: core/helpers.php:959
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: core/helpers.php:1002
+msgid "Home"
+msgstr ""
+
+#: core/helpers.php:1003 core/helpers.php:1004 core/helpers.php:1005
+#: core/helpers.php:1006
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: core/menus.php:13
+msgid "Main Menu"
+msgstr ""
+
+#: core/menus.php:14
+msgid "Sub Footer Menu"
+msgstr ""
+
+#: core/sidebars.php:19
+msgid "Default Sidebar"
+msgstr ""
+
+#: core/sidebars.php:20
+msgid "This is default sidebar"
+msgstr ""
+
+#: core/sidebars.php:35
+msgid "Footer # 1"
+msgstr ""
+
+#: core/sidebars.php:36
+msgid "This is footer left column"
+msgstr ""
+
+#: core/sidebars.php:52
+msgid "Footer # 2"
+msgstr ""
+
+#: core/sidebars.php:53
+msgid "This footer center column"
+msgstr ""
+
+#: core/sidebars.php:68
+msgid "Footer # 3"
+msgstr ""
+
+#: core/sidebars.php:70 core/sidebars.php:86
+msgid "This footer right column"
+msgstr ""
+
+#: core/sidebars.php:85
+msgid "Footer # 4"
+msgstr ""
+
+#: footer.php:62
+msgid "We accept"
+msgstr ""
+
+#: footer.php:82
+msgid "Language"
+msgstr ""
+
+#: footer.php:95
+msgid "Languages"
+msgstr ""
+
+#: header.php:49
+msgid "Facebook"
+msgstr ""
+
+#: header.php:50
+msgid "Instagram"
+msgstr ""
+
+#: header.php:51
+msgid "Booking.com"
+msgstr ""
+
+#: header.php:52
+msgid "Airbnb"
+msgstr ""
+
+#: header.php:53
+msgid "Pinterest"
+msgstr ""
+
+#: search.php:29
+msgid "No results found. Please try again with a different keyword."
+msgstr ""
+
+#: templates/elements/comments-form.php:12
+msgid "Leave your comment"
+msgstr ""
+
+#: templates/elements/comments-form.php:12
+msgid "Join the discussion and tell us your opinion."
+msgstr ""
+
+#: templates/elements/comments-form.php:14
+msgid "Submit Your Comment"
+msgstr ""
+
+#: templates/elements/comments-form.php:19
+msgid "Login"
+msgstr ""
+
+#: templates/elements/comments-form.php:24
+msgid "Logout"
+msgstr ""
+
+#: templates/elements/comments-form.php:31
+msgid "Your Name"
+msgstr ""
+
+#: templates/elements/comments-form.php:36
+msgid "Your Email"
+msgstr ""
+
+#: templates/elements/comments-form.php:41
+msgid "Website"
+msgstr ""
+
+#: templates/elements/page-header.php:12
+msgid "Searh Results For"
+msgstr ""
+
+#: templates/header/menu.php:15
+msgid "Click here to add items to main navigation [Visible only to Admins]"
+msgstr ""
+
+#: templates/header/menu.php:30
+msgid "Click here to add main navigation [Visible only to Admins]"
+msgstr ""
+
+#: templates/single/author.php:7
+msgid "More details about"
+msgstr ""
+
+#: templates/single/hero.php:12
+msgid "by"
+msgstr ""
+
+#: templates/single/hero.php:20
+msgid "on"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://eagle-themes.com/themes/himara"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Himara is a WordPress Theme crafted for your hotel & resort website."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Eagle-Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://eagle-themes.com"
+msgstr ""

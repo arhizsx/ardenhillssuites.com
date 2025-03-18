@@ -1,0 +1,404 @@
+/*=============================================================
+  Theme Name:    Hotel Himara - Hotel WordPress Theme
+  Author:        Eagle-Themes (Jomin Muskaj)
+  Author URI:    http://eagle-themes.com
+  Version:       1.0.0
+=============================================================*/
+html, body, .wrapper {
+  height: 100%;
+}
+body .wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+body .wrapper main {
+  flex: 1 0 auto;
+}
+
+body .wrapper .footer {
+  flex-shrink: 0;
+}
+
+input[type="submit"] {
+  border: 0;
+}
+
+/* Widgets */
+.widget img {
+  max-width: 100%;
+  height: auto;
+}
+
+.alert-simple {
+  background: #efefef;
+  border-radius: 4px;
+  color: #6e6e6e;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 500;
+  padding: 10px 20px;
+}
+
+.alert-simple.himara-no-results {
+  padding: 15px;
+  margin-top: 0;
+  font-size: 16px;
+}
+
+.alert-simple.himara-no-results i {
+  font-size: 20px;
+  padding-right: 15px;
+  position: relative;
+  top: 3px;
+}
+
+.has-text-align-left,
+.has-text-align-right {
+  clear: both;
+}
+
+img.alignright {
+  float: right;
+}
+
+img.alignleft {
+  float: left;
+}
+
+
+.wp-block-latest-comments li footer {
+  background: transparent;
+}
+
+/* POSTS */
+article figure img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+/* BLOG META */
+.post-footer,
+.post-author {
+  margin: 80px 0;
+}
+
+.clearfix {
+  clear: both;
+}
+
+/* COMMENTS */
+.post-comments {
+  padding: 50px 0;
+  clear: both;
+}
+
+.post-comments-list .comment,
+.post-comments-list .comment .children {
+  display: block;
+  list-style: none;
+  clear: both;
+  margin: 60px 0;
+  margin-bottom: 0;
+}
+
+.post-comments-list .comment:first-child {
+  margin-top: 0;
+}
+
+.post-comments-list .comment-respond {
+  padding-left: 88px;
+}
+
+#cancel-comment-reply-link {
+  margin-top: 40px;
+  float: right;
+  color: #afafaf;
+  font-size: 12px;
+}
+
+.entry .wp-caption-text,
+.entry .gallery-caption {
+    font-size: 13px;
+    color: #979797;
+    font-style: italic;
+    line-height: 18px;
+    margin-top: 10px;
+}
+
+.entry .wp-caption-text a,
+.entry .gallery-caption a {
+    color: #575757;
+}
+
+.entry .gallery.gallery-columns-3 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.entry .gallery.gallery-columns-4 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.wp-block-latest-comments li footer {
+  border-top: 0;
+}
+
+.wp-block-preformatted {
+  background: #f6f6f6;
+  padding: 20px;
+}
+
+.screen-reader-text {
+  clip: rect(1px, 1px, 1px, 1px);
+  clip-path: polygon(0px 0px, 0px 0px, 0px 0px, 0px 0px);
+  position: absolute !important;
+  white-space: nowrap;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+}
+
+.comment-list .bypostauthor .comment-box {
+  border-color: #f0eadc;
+  background: #fdf9ef;
+}
+
+.comment-list .bypostauthor li .comment-box {
+  background: #fff;
+  border-color: #f2f2f2;
+}
+
+body.is-layout-flex {
+  clear: both;
+}
+
+/* Blocks */
+.wp-block-post-title {
+  clear: both;
+}
+
+.wp-block-columns {
+  margin-bottom: 0;
+}
+
+/* Widgets */
+.widget h2,
+.widget_search .wp-block-search__label,
+.sidebar .widget .widget-title {
+	margin-bottom: 10px;
+	font-size: 22px;
+  color: var(--heading-color);
+}
+
+.wp-block-search__inside-wrapper {
+  margin-top: 20px;
+}
+
+/* Search Widget */
+.wp-block-search__input {
+  padding: 12px;
+	border: 1px solid #ededed;
+	border-radius: 4px;
+}
+
+.wp-block-search__button {
+  background: #32353c;
+  border-color: #32353c;
+  border-radius: 4px;
+  padding: 10px;
+  color: #fff;
+  outline: none;
+  box-shadow: none;
+  cursor: pointer;
+}
+
+.himara-link-pages {
+  margin-top: 20px;
+}
+
+.post-page-numbers {
+  background: var( --main-color );
+  padding: 8px 12px;
+  color: #fff;
+  border-radius: 2px;
+}
+
+.post-page-numbers:hover,
+.post-page-numbers:focus,
+.post-page-numbers.current {
+  background: var( --button-color );
+  color: #fff;
+}
+
+/* Blockquote  */
+blockquote {
+  position: relative;
+  padding: 10px 15px;
+  font-size: 17px;
+  border-radius: 0 2px 2px 0;
+}
+
+blockquote p {
+  position: relative;
+  color: #878D8D;
+  font-size: 16px;
+  font-style: italic;
+  font-weight: normal;
+  padding: 10px 50px;
+  margin: 0;
+}
+
+blockquote:before {
+  content: "\f10d";
+  font-family: FontAwesome;
+  position: absolute;
+  top: 15px;
+  left: 10px;
+  font-size: 44px;
+  color: #f2f5f3;
+  line-height: normal;
+}
+
+blockquote:after {
+  content: "\f10e";
+  font-family: FontAwesome;
+  position: absolute;
+  bottom: 15px;
+  right: 10px;
+  font-size: 44px;
+  color: #f2f5f3;
+  line-height: normal;
+}
+
+section.post-content h1,
+.comment-text h1 {
+  margin-top: 30px;
+}
+
+section.post-content h2,
+.comment-text h2 {
+  margin-top: 25px;
+}
+
+section.post-content h3,
+.comment-text h3 {
+  margin-top: 20px;
+}
+
+section.post-content h4,
+.comment-text h4 {
+  margin-top: 15px;
+}
+
+section.post-content h5,
+.comment-text h5 {
+  margin-top: 10px;
+}
+
+section.post-content h6,
+.comment-text h6 {
+  margin-top: 5px;
+}
+
+section.post-content address,
+section.post-content p {
+  padding-bottom: 10px;
+}
+
+
+.post-content .aligncenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.post-content img.alignleft {
+  float: left;
+  margin-right: 20px;
+  margin-top: 0.5em;
+  margin-bottom: 0.3em;
+}
+
+.post-content img.alignright {
+  float: right;
+  margin-left: 30px;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+
+.wp-block-image figcaption {
+  font-size: 12px;
+}
+
+/* Code */
+.page pre {
+  white-space: pre-wrap;
+  background: #f2f5f3;
+  padding: 15px 20px;
+  border: 1px solid#f0f5f3;
+  color: #8d9796;
+  font-weight: 500;
+  font-size: 15px;
+}
+
+/* Table */
+section.post-content table,
+.wp-block-table table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 30px;
+  margin-top: 15px;
+  border: 1px solid #e3e3e3;
+}
+
+section.post-content table tr,
+.wp-block-table table tr {
+  border: 1px solid #f0f5f3;
+}
+
+section.post-content table tr th,
+section.post-content table tr td,
+.wp-block-table table tr th,
+.wp-block-table table tr td {
+  padding: 5px 15px;
+  border: 1px solid #e3e3e3;
+}
+
+section.post-content table tr th,
+.wp-block-table table tr th {
+  font-weight: normal;
+}
+
+/* Lists */
+.wrapper ol,
+.wrapper ul {
+  padding-left: 40px;
+}
+
+.wrapper .sidebar ol,
+.wrapper .sidebar ul {
+  padding-left: 0;
+}
+
+.post-password-form label input {
+  height: 44px;
+  margin-left: 20px;
+  margin-right: 20px;
+  border-color: #efefef;
+}
+
+.wp-block-button__link:hover {
+  background: #32373c;
+}
+
+.has-large-font-size {
+  line-height: 40px;
+}
+
+.wp-block-group__inner-container {
+  padding: 15px;
+}
